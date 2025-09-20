@@ -1,14 +1,17 @@
-<<<<<<< HEAD
 def add(a, b):
     return a + b
 
 def subtract(a, b):
         return a - b
-=======
+
 def multiply(a, b):
     return a * b
 
->>>>>>> origin/Mul2
+# sdgfdh
+def divide(a, b):
+    if b == 0:
+        return "Error: Cannot divide by zero."
+    return a / b
 
 
 num1 = float(input("Enter first number: "))
