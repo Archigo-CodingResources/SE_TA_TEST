@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 def add(a, b):
     return a + b
 
 def subtract(a, b):
         return a - b
+=======
+def multiply(a, b):
+    return a * b
+
+>>>>>>> origin/Mul2
 
 
 num1 = float(input("Enter first number: "))
